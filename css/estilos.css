@@ -1,0 +1,64 @@
+.navbar-brand img {
+  width: 100px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #07925d;
+  border-color: #0c4bd3;
+}
+
+.btn-primary:hover {
+  background-color: #0c4bd3;
+  border-color: #2da3b8;
+}
+
+.nav-link {
+  color: #07925d;
+}
+.nav-item {
+  font-weight: bold;
+}
+
+#mainNav.navbar-shrink {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #126948;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active,
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #24c732;
+}
+
+.page-section h3.section-subheading {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.invalid-feedback {
+  font-weight: bold;
+  font-size: 20px;
+  color: #e5e910;
+}
+
+footer {
+  font-weight: bold;
+  background-color: #126948;
+}
+
+.nav-link marquee {
+  font-weight: bold;
+  font-size: 50px;
+}
+.timeline > li .timeline-image {
+  background-color: #3a8f60;
+}
+
+.lista-benef li {
+  list-style: none;
+  position: relative;
+  align-items: center;
+}
